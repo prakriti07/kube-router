@@ -4,7 +4,7 @@ services:
 language: go
 arch:
   - amd64
-  - arm64
+  - arm64-graviton2
 go:
   - 1.13.x
 
